@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RainloongCao&theme=rogue)</div>
+ ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RainloongCao&theme=rogue)
