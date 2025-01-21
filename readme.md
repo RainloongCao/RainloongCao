@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RainloongCao/RainloongCao/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RainloongCao&theme=rogue)]</div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graphusername=RainloongCao&theme=rogue" /> </div>
