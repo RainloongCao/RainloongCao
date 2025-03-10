@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🎓 Education
+- First-year PhD student in Computer Science and Artificial Intelligence at Nanjing University of Science and Technology
+
+### 👨‍💻 Work Experience
+- Participated in the development of the SECEVERY homepage (https://www.secevery.com/).
+
+### 🚀 About Me
+- 🔭 Focusing on algorithm development and engineering implementation
+- 🎯 Dedicated to computer vision
+- 🤔 Is a rapper(NetEase CloudMusic: 沉梦昂志小粉丝)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RainloongCao/RainloongCao/output/github-contribution-grid-snake-dark.svg">
