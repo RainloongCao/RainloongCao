@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - First-year PhD student in Computer Science and Artificial Intelligence at Nanjing University of Science and Technology
 
 ### 👨‍💻 Work Experience
-- Participated in the development of the SECEVERY homepage (https://www.secevery.com/).
+- Participated in the development of the SECEVERY homepage (https://sechub.com.cn/app/#/index/home).
 
 ### 🚀 About Me
 - 🔭 Focusing on algorithm development and engineering implementation
