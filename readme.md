@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🔭 Focusing on algorithm development and engineering implementation
 - 🎯 Dedicated to computer vision
-- 🤔 Is a rapper(NetEase CloudMusic: 沉梦昂志小粉丝)
+- 🤔 Is a rapper(NetEase CloudMusic: 沉梦昂志小粉丝 https://music.163.com/#/artist?id=61560223)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RainloongCao/RainloongCao/output/github-contribution-grid-snake-dark.svg">
